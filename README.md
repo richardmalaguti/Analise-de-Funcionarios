@@ -51,3 +51,8 @@ A seguir, estará anexado o Dashboard feito no projeto, espero que gostem e se p
 
 ## Análise por Faixa Etária
 
+![Image](https://github.com/user-attachments/assets/3cbab74d-2549-4236-a13c-a8113858bae5)
+
+## Análise por Departamento
+
+
