@@ -55,4 +55,8 @@ A seguir, estará anexado o Dashboard feito no projeto, espero que gostem e se p
 
 ## Análise por Departamento
 
+![Image](https://github.com/user-attachments/assets/68f19408-09ed-499f-8884-ce0a256755b6)
+
+## Análise por Experiência
+
 
