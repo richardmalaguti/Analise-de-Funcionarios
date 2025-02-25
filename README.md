@@ -39,6 +39,7 @@ precisava também dessas informações, após isso, realizei as análises e apre
 - Habilidades Analíticas
 - Criatividade
 - Praticidade
+- Resolução de Problemas
 
 # Resultado do Projeto
 
@@ -46,5 +47,7 @@ A seguir, estará anexado o Dashboard feito no projeto, espero que gostem e se p
 
 ## Página Inicial do Projeto
 
+![Image](https://github.com/user-attachments/assets/c1eb231a-0353-4231-a981-410274e121ef)
 
-- Resolução de Problemas
+## Análise por Faixa Etária
+
