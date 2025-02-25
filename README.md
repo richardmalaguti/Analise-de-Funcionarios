@@ -1,7 +1,7 @@
 # Projeto de Análise de Dados dos Funcionários
 
   Este projeto foi desenvolvido com foco em Análise de Dados, priorizando a coleta de informações importantes para os tomadores de decisões, contendo informações sobre os funcionários da empresa. Os dados são
-todos fictícios, extraídos da plataforma do Kaggle, e com esse conjunto de dados o autor nos indicou o seguinte defafio: "Resolver 50 questões com a linguagem Python para fazer alterações e correções dos
+todos fictícios, extraídos da plataforma do Kaggle, e com esse conjunto de dados o autor nos indicou o seguinte desafio: "Resolver 50 questões com a linguagem Python para fazer alterações e correções dos
 dados, e deixa-los disponíveis para uso". Esses exercícios foram todos feitos, gostaria muito que você entrasse nas pastas acima, as quais contém a solução de todos eles.
 
   Agora, seguindo para o real propósito do projeto, eu também anexei o ETL que fiz com a Linguagem Python para utilizar os dados no Power BI e realizar todas as análises, a seguir, vou mostrar as demais informações
@@ -29,6 +29,8 @@ precisava também dessas informações, após isso, realizei as análises e apre
 
 - Análise de Dados
 - ETL
+- Fórmulas DAX
+- Linguagem M
 - Uso do Pacote Pandas
 - Linguagem Python
 - Manipulação de Dados
@@ -47,16 +49,46 @@ A seguir, estará anexado o Dashboard feito no projeto, espero que gostem e se p
 
 ## Página Inicial do Projeto
 
+Contém informações de algumas habilidades adquiridas após a realização do projeto, link's que direcionam para meu perfil no LinkedIn, GitHub e Instagram e o título do Projeto.
+
 ![Image](https://github.com/user-attachments/assets/c1eb231a-0353-4231-a981-410274e121ef)
 
 ## Análise por Faixa Etária
+
+Análise feita contendo informações sobre a faixa etária dos funcionários, com o objetivo de responder:
+
+- Quantos funcionários pertencem a cada grupo etário;
+- Quantos funcionários de gêneros diferentes temos por grupo etário;
+- Qual grupo etário corresponde ao maior indíce de boa performance;
+- O montante de salário que cada grupo etário recebe;
+- Correlação entre o salário e o grupo etário.
 
 ![Image](https://github.com/user-attachments/assets/3cbab74d-2549-4236-a13c-a8113858bae5)
 
 ## Análise por Departamento
 
+Análise feita contendo informações sobre os departamentos da empresa, visando responder:
+
+- Qual departamento possuí a maior quantidade de pontos de performance;
+- Média de experiência por cada departamento;
+- Total de funcionários por idade e departamento;
+- Montante de salário por departamento;
+- Correlação entre o salário e o departamento.
+
 ![Image](https://github.com/user-attachments/assets/68f19408-09ed-499f-8884-ce0a256755b6)
 
 ## Análise por Experiência
 
+Análise feita contendo informações sobre a experiência dos funcionários, respondendo:
 
+- Mediana de experiência por departamento;
+- Mediana de experiência por gênero;
+- Total de funcionários por anos de experiência;
+- Montante do sálario por ano de experiência;
+- Correlação entre salário e período de experiência.
+
+![Image](https://github.com/user-attachments/assets/42897b2a-f560-4645-bc8e-61b203a8fdfd)
+
+# FIM!
+
+Espero que tenham gostado, muito obrigado por ter visitado meu perfil do GitHub!
